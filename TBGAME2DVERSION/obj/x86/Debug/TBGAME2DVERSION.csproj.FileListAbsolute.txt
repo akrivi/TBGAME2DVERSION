@@ -1,0 +1,13 @@
+C:\Users\A\Desktop\GameProjectMaterials\TBGAME2DVERSION\TBGAME2DVERSION\obj\x86\Debug\TBGAME2DVERSION.csprojResolveAssemblyReference.cache
+C:\Users\A\Desktop\TBGAME2DVERSION\TBGAME2DVERSION\obj\x86\Debug\TBGAME2DVERSION.csprojResolveAssemblyReference.cache
+C:\Users\A\Desktop\TBGAME2DVERSION\TBGAME2DVERSION\bin\WindowsGL\Debug\Content\Graphics\dialogbox.xnb
+C:\Users\A\Desktop\TBGAME2DVERSION\TBGAME2DVERSION\bin\WindowsGL\Debug\Content\Graphics\forestbackground.xnb
+C:\Users\A\Desktop\TBGAME2DVERSION\TBGAME2DVERSION\bin\WindowsGL\Debug\Content\Graphics\hero.xnb
+C:\Users\A\Desktop\TBGAME2DVERSION\TBGAME2DVERSION\bin\WindowsGL\Debug\Content\Graphics\sock.xnb
+C:\Users\A\Desktop\TBGAME2DVERSION\TBGAME2DVERSION\bin\WindowsGL\Debug\Content\Graphics\spriteki.xnb
+C:\Users\A\Desktop\TBGAME2DVERSION\TBGAME2DVERSION\bin\WindowsGL\Debug\TBGAME2DVERSION.exe
+C:\Users\A\Desktop\TBGAME2DVERSION\TBGAME2DVERSION\bin\WindowsGL\Debug\TBGAME2DVERSION.pdb
+C:\Users\A\Desktop\TBGAME2DVERSION\TBGAME2DVERSION\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\Users\A\Desktop\TBGAME2DVERSION\TBGAME2DVERSION\bin\WindowsGL\Debug\OpenTK.dll
+C:\Users\A\Desktop\TBGAME2DVERSION\TBGAME2DVERSION\obj\x86\Debug\TBGAME2DVERSION.exe
+C:\Users\A\Desktop\TBGAME2DVERSION\TBGAME2DVERSION\obj\x86\Debug\TBGAME2DVERSION.pdb
